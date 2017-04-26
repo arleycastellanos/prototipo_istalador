@@ -13,7 +13,7 @@
 
 	<br>
 	<br>
-		            		<div class="col-xs-12 col-md-4 "><div><h3 style="color:blue">Por favor tener en phpmyadmin una base de datos creada.</h3></div></div>
+		            		<div class="col-xs-12 col-md-4 "><div><h3 style="color:blue">por favor crear primero una base de datos.</h3></div></div>
 
 	<br>
 
