@@ -46,7 +46,7 @@
 				<?php  echo $obj_o->ayuda(); ?><!--Botón de ayuda-->
 					<div class='col-xs-12 col-md-3 '>  
 							<?php
-					            echo $obj_o->traer_lista_informacion( "sintomas[] ", "tb_signos_y_sintomas","id_signos", "signos_y_sintomas");?> <!-- en esta linea traemos la información de una tabla de determinados campos en un select. --> 
+					            echo $obj_o->traer_lista_informacion( "sintomas[] ", "tb_sintomas","id_signos", "sintomas");?> <!-- en esta linea traemos la información de una tabla de determinados campos en un select. --> 
 		            </div>
 						<div class='col-xs-12 col-md-6 '>
 
